@@ -27,6 +27,7 @@
   "main": "./lib/passport-saml",
   "dependencies": {
     "passport-strategy": "*",
+    "pem": "1.12.3",
     "q": "^1.5.0",
     "xml-crypto": "^0.10.1",
     "xml-encryption": "^0.11.0",
